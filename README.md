@@ -21,7 +21,7 @@ These components are essential for improving the system's ability to manage memo
 The primary functions to be developed include initialization of the allocator, memory allocation using the First Fit strategy, and reallocation of memory blocks. 
 
 **Milestone 2**
-![MS2 req ](https://files.fm/u/pu5ydmwsjn)
+![MS2 req ](ms2_req.png)
 
 **Milestone 3**
 
