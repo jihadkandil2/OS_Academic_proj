@@ -1,5 +1,5 @@
 # OS_Academic_proj
-# Operating_system
+
 
 ### Problem Definition and requirement :-
 
@@ -18,13 +18,14 @@ These components are essential for improving the system's ability to manage memo
 
 ### Project Requirements:
 **Milestone 1**
+
 The primary functions to be developed include initialization of the allocator, memory allocation using the First Fit strategy, and reallocation of memory blocks. 
 
 **Milestone 2**
 ![MS2 req ](ms2_req.png)
 
 **Milestone 3**
-
+![MS2 req ](Ms3_req.png)
 
 ### Prerequisites
 
