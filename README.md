@@ -1,7 +1,7 @@
+
 # OS_Academic_proj
 
-
-### Problem Definition and requirement :-
+## Problem Definition and requirement :-
 
 **Milestone 1**  of the project aims to implement a dynamic memory allocator for an operating system. The allocator should manage the heap memory using a linked list data structure where each allocated block of memory is preceded by a header containing metadata.  The allocator must efficiently manage the allocation and deallocation of memory to optimize the use of available space and ensure proper handling of different memory management scenarios.
 
@@ -16,7 +16,7 @@ These components are essential for improving the system's ability to manage memo
 **Milestone 3**
  
 
-### Project Requirements:
+## Project Requirements:
 **Milestone 1**
 
 The primary functions to be developed include initialization of the allocator, memory allocation using the First Fit strategy, and reallocation of memory blocks. 
@@ -25,9 +25,9 @@ The primary functions to be developed include initialization of the allocator, m
 ![MS2 req ](ms2_req.png)
 
 **Milestone 3**
-![MS2 req ](Ms3_req.png)
+![MS3 req ](Ms3_req.png)
 
-### Prerequisites
+## Prerequisites
 
 Visual Studio .
 project is windows form application
@@ -36,7 +36,7 @@ project is windows form application
 Give examples
 ```
 
-### Installing
+## Installing
 ...........write if something needed to be installed
 
 
