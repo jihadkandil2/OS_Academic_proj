@@ -1,6 +1,6 @@
 
 # OS_Academic_proj
-
+in progress updating how to work this on your pc ........
 ## Problem Definition and requirement :-
 
 **Milestone 1**  of the project aims to implement a dynamic memory allocator for an operating system. The allocator should manage the heap memory using a linked list data structure where each allocated block of memory is preceded by a header containing metadata.  The allocator must efficiently manage the allocation and deallocation of memory to optimize the use of available space and ensure proper handling of different memory management scenarios.
